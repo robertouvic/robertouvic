@@ -4,5 +4,3 @@
 - 💞️ I’m looking to collaborate on open source software engineering education.
 - 📫 How to reach me rbittencourt at uvic
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: clumsy person
-
